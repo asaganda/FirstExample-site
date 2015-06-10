@@ -1,0 +1,9 @@
+#container {
+	width: 70%;
+	border: thin solid blue;
+}
+
+img {
+	border-radius: 100px;
+	width: 30%;
+}
