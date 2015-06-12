@@ -1,11 +1,24 @@
-body {
-	background-color: #b0c4de;
+html {
+	background: url("beach.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
 }
+
+h1 {
+	color: red;
+}
+
+header {
+	color: red;
+}
+
 
 #container {
 	width: 70%;
-	border: thin solid blue;
-	background-color: lightblue;
+	/*border: thin solid blue;*/
+	/*background-color: lightblue;*/
 }
 
 img {
