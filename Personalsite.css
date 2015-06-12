@@ -14,11 +14,8 @@ header {
 	color: red;
 }
 
-
 #container {
 	width: 70%;
-	/*border: thin solid blue;*/
-	/*background-color: lightblue;*/
 }
 
 img {
@@ -26,7 +23,11 @@ img {
 	width: 30%;
 }
 
-ul {
+nav {
 	border: 1px red solid;
 	float: left;
+}
+
+li {
+	font-size: 30px;
 }
